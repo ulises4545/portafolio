@@ -16,7 +16,7 @@
       <h4>Programacion IV</h4>
 
       <h3>Alumno:</h3>
-      <h4>Ulises Arquimides</h4>
+      <h4>Ulises Arquimides Cruz Ventura</h4>
 
       <h3>Docente:</h3>
       <h4>Ing. Gisela Espinoza</h4>
